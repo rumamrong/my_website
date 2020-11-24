@@ -3,4 +3,18 @@ body {
     margin: 50px;
     padding: 50px;
     border:10px brown solid;
+    border-radius: 20px;
 }
+
+h1, h2,h3, h4  {
+    background-color: burlywood;
+    color: cadetblue;
+    font-size: 50px;
+    text-align: center;
+}
+p, ol, ul{
+    background-color: chartreuse;
+    
+
+}
+
